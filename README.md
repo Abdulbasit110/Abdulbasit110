@@ -12,11 +12,11 @@
  
  🔭 I’m currently **a student**
  
- 🌱 I’m currently learning **Docker, AI, Machine learning**
+ 🌱 I’m currently learning and working on **Docker, AI, Machine learning and AI Agents**
 
-💬 Ask me about **Node.js, React, Firebase, Next, Angular, Express, MongoDB, Mysql etc**
+💬 Ask me about **Node.js, React, Firebase, Next, Angular, Express, MongoDB, Mysql, posgresql etc**
 
-⚡ Fun fact **I like to work on AI web apps and machine learning**
+⚡ Fun fact **I like to work on full stack AI web apps and machine learning**
 
  </div>
  
@@ -38,7 +38,7 @@
 <br/>
 <div align="center">
     <img src="https://skillicons.dev/icons?i=react,bootstrap,mui,html,css,vscode,github,figma,tailwind,git" />
-    <img src="https://skillicons.dev/icons?i=nodejs,python,javascript,typescript,express,firebase,mongodb,cpp,nextjs,mysql" /><br>
+    <img src="https://skillicons.dev/icons?i=nodejs,python,javascript,typescript,express,firebase,mongodb,cpp,nextjs,mysql,postgresql" /><br>
 </div>
 
 <br/>
