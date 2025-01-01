@@ -14,7 +14,7 @@
  
  🌱 I’m currently learning and working on **Docker, AI, Machine learning and AI Agents**
 
-💬 Ask me about **Node.js, React, Firebase, Next, Angular, Express, MongoDB, Mysql, posgresql, langchain etc**
+💬 Ask me about **Node.js, React, Firebase, Next.js, Angular, Express, Flask, Fastapi, MongoDB, Mysql, posgresql, langchain etc**
 
 ⚡ Fun fact **I like to work on full stack AI web apps and machine learning**
 
@@ -38,7 +38,7 @@
 <br/>
 <div align="center">
     <img src="https://skillicons.dev/icons?i=react,bootstrap,mui,html,css,vscode,github,figma,tailwind,git" />
-    <img src="https://skillicons.dev/icons?i=nodejs,python,javascript,typescript,express,firebase,mongodb,cpp,nextjs,mysql,postgresql,langchain" /><br>
+    <img src="https://skillicons.dev/icons?i=nodejs,python,javascript,typescript,express,firebase,mongodb,cpp,nextjs,mysql,postgresql,flask,fastapi" /><br>
 </div>
 
 <br/>
