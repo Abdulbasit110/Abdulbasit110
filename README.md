@@ -10,7 +10,7 @@
 
 <div align="center">
  
- 🔭 I’m currently **a student**
+ 🔭 I’m currently **a student and a learner**
  
  🌱 I’m currently learning and working on **Docker, AI apps, Machine learning and AI Agents**
 
